@@ -1,13 +1,38 @@
-# CREATE-A-SALES-DASHBOARD
+# Sales Dashboard | Power BI
 
-COMPANY: CODE TECH IT SOLUTIONS
+An interactive Power BI dashboard built on company sales data, transforming raw transactional records into a decision-ready view of revenue performance, product trends, and regional insights for stakeholders.
 
-NAME: P.SAHITH REDDY
+## What I Did
 
-INTERN ID: CTIS4298
+- Connected Power BI to the sales dataset and cleaned/transformed it using Power Query
+- Built a data model with calculated KPIs using DAX (total revenue, average order value, growth trends)
+- Designed visuals to track sales performance across regions, categories, and products
+- Built time-based trend visuals (monthly/yearly) to surface seasonality and growth patterns
+- Added interactive slicers and filters (region, category, date range) for stakeholder-driven exploration
 
-DOMAIN: POWER BI
+## Skills Demonstrated
 
-DURATION: 4 WEEKS
+- Power BI dashboard design and data modeling
+- Power Query for data cleaning and transformation
+- DAX for calculated KPIs and time-intelligence measures
+- Translating raw sales data into an interactive, decision-ready report
 
-MENTOR: NEELAM SANTHOS
+## Tools
+
+Power BI, Power Query, DAX
+
+## How It Works
+
+1. Sales dataset is imported and cleaned using Power Query
+2. Data model is built with relevant fields and relationships
+3. DAX measures calculate key KPIs (revenue, growth, averages)
+4. Dashboard visuals present trends, comparisons, and breakdowns with interactive filters
+
+## Files
+
+- `company_sales.csv` — source dataset
+- `sales_dashboard.pbix` — Power BI dashboard file
+
+---
+
+This project reflects a core BI skill — turning raw sales data into a clear, interactive dashboard that stakeholders can use to track performance and make decisions without needing to touch the underlying data.
